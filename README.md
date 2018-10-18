@@ -1,5 +1,5 @@
 "# java-chatbot-channels-and-services-integration" 
-# Java Chatbot Example - multiple channles, services integration, and Azure deployment.
+# Java Chatbot Example - multiple channels, services integration, and Azure deployment.
 
 ## Overview
 
